@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 💻 I'm a Software Engineer @ BJSS
+- 📚 I have a BSc Computer Science degree from University of Nottingham
+- Passionate about clean software, TDD, renewables, mass transit, walkability, cycling
+- 🤔 I'm searching for green software projects
+- 📫 Contact me via [LinkedIn](https://www.linkedin.com/in/tomas-kulvietis/)
+
 <!--
 **tomaskul/tomaskul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
