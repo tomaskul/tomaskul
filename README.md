@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 💻 I'm a Software Engineer @ BJSS
+- 💻 I'm a Software Engineer
 - 📚 I have a BSc Computer Science degree from University of Nottingham
 - Passionate about security, clean software, TDD, renewables, mass transit, walkability, cycling
 - 🤔 I'm searching for green software projects
